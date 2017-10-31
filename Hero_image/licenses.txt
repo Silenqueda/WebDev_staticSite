@@ -1,0 +1,5 @@
+the-thing.jpg:      https://www.flickr.com/photos/stevedocious/6957182216 (CC-BY-2.0)
+hawkeye.jpg:        https://www.flickr.com/photos/jdhancock/7379216712 (CC-BY-2.0)
+dr-will-magnus.jpg: https://www.flickr.com/photos/jdhancock/6394575561 (CC-BY-2.0)
+nick-fury.jpg:      https://www.flickr.com/photos/jdhancock/7368156642 (CC-BY-2.0)
+alle anderen:       CC-0 (via pixabay)
